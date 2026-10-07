@@ -1,0 +1,5 @@
+https://www.roblox.com/login-redirect/ | Status: 200
+https://www.roblox.com/cp/ | Status: 200
+https://www.roblox.com/login | Status: 200
+https://www.roblox.com/login-redirect/ | Status: 200
+https://www.roblox.com/login/ | Status: 200
